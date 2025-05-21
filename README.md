@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/SaiGanesh0928/Leetcodeproblems/tree/master/1250-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaiGanesh0928/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaiGanesh0928/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaiGanesh0928/Leetcodeproblems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
